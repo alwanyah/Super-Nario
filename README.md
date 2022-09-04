@@ -7,6 +7,13 @@ simple 2D run-and-jump game
 - ´D´ to go right
 - ´W´ or ´SPACE´ to jump
 
+## installation
+1. go ´Builds´
+2. install ´Super Nario.zip´
+3. extract the files
+4. start ´Super Nario.exe´
+5. have fun :)
+
 ## gameplay
 ![Screenshot (306)](https://user-images.githubusercontent.com/95567513/188307567-5e2d24dd-b082-4046-ba52-6789ef010a7e.png)
 ![Screenshot (309)](https://user-images.githubusercontent.com/95567513/188307596-65a50613-b408-461b-9368-188e17c009aa.png)
